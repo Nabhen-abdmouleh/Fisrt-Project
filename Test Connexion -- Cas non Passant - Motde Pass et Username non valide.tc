@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Connexion -- Cas non Passant - Motde Pass et Username non valide</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>941ea3dc-3535-4ee7-98be-0488a0cd447c</testCaseGuid>
+</TestCaseEntity>
